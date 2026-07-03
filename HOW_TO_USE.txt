@@ -1,0 +1,196 @@
+================================================================================
+                    ROAV PROMO TOOL - USER GUIDE
+================================================================================
+
+ABOUT THIS TOOL:
+================================================================================
+ROAV Promo Tool is a professional Telegram group promotion and management system
+designed for efficient bulk messaging and group automation. This tool allows you
+to manage multiple Telegram accounts, auto-join groups, and broadcast promotional
+messages across selected groups with smart delay management.
+
+Version: Premium Edition
+Created: 2025
+Platform: Windows 64-bit
+
+
+FEATURES:
+================================================================================
+✓ Multi-Account Management - Add & manage multiple Telegram accounts
+✓ Group Auto-Join - Automatically join groups from categories or manual links
+✓ Bulk Messaging - Broadcast promotional messages to multiple groups
+✓ Smart Delay System - Configurable delays to avoid spam detection
+✓ Group Selection - Load and select specific groups for broadcasting
+✓ Activity Logging - Complete tracking of all operations
+✓ License Protection - Secure license key validation system
+✓ Glassmorphism UI - Modern, intuitive dark interface
+
+
+INSTALLATION:
+================================================================================
+1. Extract the ROAV Promo Tool folder to any location on your computer
+2. No Python installation needed - AutoSender.exe is fully standalone!
+3. Simply double-click AutoSender.exe to start using the tool immediately
+4. Enter your license key to activate access
+
+No setup or dependencies required!
+
+
+HOW TO USE:
+================================================================================
+
+Step 1: LICENSE ACTIVATION
+------------------------
+- Double-click AutoSender.exe
+- Enter your ROAV License Key in the input field
+- Click "Activate Terminal"
+- If valid, you'll be granted access to the system
+
+
+Step 2: ADD TELEGRAM ACCOUNTS (TRANSMISSION NODES)
+------------------------
+- Go to Dashboard tab
+- Enter your phone number (e.g., +91 9999999999)
+- Click "+ ADD NODE"
+- Enter the OTP received on Telegram
+- If 2FA is enabled, enter your 2FA password
+- Account will be added as a "Transmission Node"
+- Repeat for multiple accounts
+
+Note: The system uses these accounts for broadcasting. Each account is a "node"
+that helps distribute messages and avoid spam detection.
+
+
+Step 3: JOIN TARGET GROUPS (Optional)
+------------------------
+- Go to "Join Groups" tab
+- Option A: Auto-join from server categories
+  * Select a category from the dropdown
+  * Set join limit (how many groups from that category)
+  * Click "Join From Category"
+  
+- Option B: Manual join from direct links
+  * Paste Telegram group links (one per line)
+  * Click "Join All Pasted Links"
+
+Groups: https://t.me/group_name or https://t.me/+InviteLink
+
+
+Step 4: SELECT GROUPS FOR BROADCAST
+------------------------
+- Go to "Groups" tab
+- Select an account node from dropdown
+- Click "Load Groups" - system will fetch all groups that account is in
+- Select groups you want to broadcast to (checkbox)
+- Click "Select All" / "Deselect All" for quick selection
+- Click "💾 Save Selection" - groups will be added to broadcast targets
+
+
+Step 5: PREPARE YOUR MESSAGE
+------------------------
+- Go to "Message" tab
+- Write your promotional message in the text area
+- (Optional) Attach an image or video
+- Enter target group IDs/usernames (auto-filled if you saved selection)
+- Set delay between messages (in seconds)
+
+
+Step 6: SET BROADCAST SCHEDULE
+------------------------
+- Go to "Schedule" tab
+- Click a preset delay button (5 sec, 10 sec, 1 min, etc.)
+- OR enter custom delay in the input field
+- Enable "Auto-repeat" if you want continuous broadcasting
+- Current delay will be shown at bottom
+
+
+Step 7: EXECUTE BROADCAST
+------------------------
+- Go back to "Message" tab
+- Verify message content and target groups
+- Click "🚀 EXECUTE BROADCAST"
+- Watch the logs for real-time status
+- Click "⛔ ABORT EXECUTION" to stop anytime
+- Check "Logs" tab for complete activity history
+
+
+IMPORTANT NOTES:
+================================================================================
+⚠ License Key: Your license is personal. Do not share it!
+⚠ Delays: Telegram has spam detection. Use at least 3-5 second delays
+⚠ Groups: You must be a member of group to send messages
+⚠ Account Limits: Each account has daily message limits (Telegram restriction)
+⚠ 2FA: If your Telegram has 2FA enabled, you'll need to enter it during login
+⚠ Sessions: Your session files are stored in 'sessions' folder automatically
+
+
+TROUBLESHOOTING:
+================================================================================
+
+Q: "ModuleNotFoundError: No module named..."
+A: Run install.bat again to ensure all dependencies are installed
+
+Q: "License Key Invalid"
+A: Make sure your license key is correct. Contact support for a new key.
+
+Q: "Cannot connect to Telegram - NETWORK ERROR"
+A: Check your internet connection. Try again in a few moments.
+
+Q: "2FA Required" / "2FA Password Incorrect"
+A: Enter the numeric password sent to your Telegram account, not SMS code.
+
+Q: "Group not found / Cannot send messages"
+A: You might not be a member. Use "Join Groups" tab to join first.
+
+Q: "Session file corrupted"
+A: Delete files in 'sessions' folder and log in again.
+
+
+SYSTEM REQUIREMENTS:
+================================================================================
+- Windows 7 or later (64-bit recommended)
+- 2GB RAM minimum
+- 100MB free disk space
+- Active Internet connection
+- Python 3.10+ (for development/modification)
+- Telegram account(s) with active phone number
+
+
+CONTACT & SUPPORT:
+================================================================================
+For License Keys, Support, or Custom Tools:
+
+📱 Telegram: @ownerroav
+💬 Support Channel: Join from within the app
+📧 For urgent issues: Message via Telegram direct
+
+Team: ROAV
+Built with ❤️ for efficient group automation
+
+
+DISCLAIMER:
+================================================================================
+This tool is for legitimate marketing and group management purposes only.
+Users are responsible for:
+- Complying with Telegram's Terms of Service
+- Obtaining proper consent before sending promotional messages
+- Not spamming or violating Telegram community guidelines
+- Using licenses responsibly and not sharing them
+
+ROAV Team is not responsible for account bans due to misuse.
+
+
+VERSION HISTORY:
+================================================================================
+v1.0 (Premium Edition) - 2025
+- Multi-account support
+- Group auto-join functionality
+- Bulk message broadcasting
+- Advanced scheduling
+- Glassmorphism UI
+
+
+================================================================================
+                    Thank You for Using ROAV Promo Tool
+                   Made by ROAV Team | © 2025 All Rights Reserved
+================================================================================
